@@ -35,10 +35,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Hamzah Javaid
 ---
 
 Hamzah Javaid is a Data Scientist at FATMAN. A background in Chemical Engineering, he has lead projects in time-series forecasting, failure predicition & NLP . His research interests include distributed energy, peer-to-peer energy exchange on the blockchain. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
