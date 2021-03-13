@@ -4,11 +4,11 @@ education:
   courses:
   - course: MEng in Chemical Engineering
     institution: University College London, UCL
-    year: 2011-2016
+    year: 2016
 email: "hamzahjavaid@hotmail.co.uk"
-highlight_name: false
+highlight_name: true
 interests:
-- Machne Learning
+- Machine Learning
 - De-centralised Energy Blockchain
 - Time-series Forecasting
 organizations:
