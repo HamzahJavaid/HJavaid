@@ -25,21 +25,21 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2020-02-25"
+  description: "Blockchain Development"
+  organization: IBM
+  organization_url: https://www.youracclaim.com/badges/67fb62e5-782f-4612-905f-fce97c5532e8/linked_in_profile
+  title: Blockchain Foundation Developer
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.youracclaim.com/badges/67fb62e5-782f-4612-905f-fce97c5532e8/linked_in_profile
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2019-06-17"
+  description: Spread, support and reinforce agile practice & culture as a leader.
+  organization: Scrum.org
+  organization_url: www.scrum.org
+  title: Agile Leadership
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+- certificate_url: https://www.scrum.org/certificates/421963
   date_end: "2017-12-21"
   date_start: "2017-07-01"
   description: ""
