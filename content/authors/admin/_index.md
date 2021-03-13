@@ -6,7 +6,7 @@ education:
     institution: University College London, UCL
     year: 2016
 email: "hamzahjavaid@hotmail.co.uk"
-highlight_name: true
+highlight_name: false
 interests:
 - Machine Learning
 - De-centralised Energy Blockchain
