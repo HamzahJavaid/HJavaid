@@ -22,18 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: CENTRICA
+    company: Data Scientist
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: UK
+    date_start: '2016-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Data Scientist :
+
+        *	Forecasting and optimisation of biofuel tank levels
+        * Short-term gas demand forecasting
+        
+        Agile Ambassador:
+        
+        *	Managing and chairing the Data Science internal agile process to help foster a data-driven agile approach across the team and wider company. 
         
   - title: Professor
     company: University X
