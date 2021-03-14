@@ -9,10 +9,6 @@ baseurl: 'https://hamzahjavaid.netlify.app/' # Website URL
 copyright: 'Hamzah Javaid&copy;' # Footer text, e.g. '© {year} Me'
 
 
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Hamzah Javaid&copy;"
-
 
 ############################
 ## LANGUAGE

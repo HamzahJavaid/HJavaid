@@ -6,5 +6,5 @@
 Thumbs.db
 .Rdata
 .httr-oauth
-public
-resources
+/public/
+/resources/
