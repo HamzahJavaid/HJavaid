@@ -22,19 +22,15 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.ucl.ac.uk/chemical-engineering/
 - icon: github
   icon_pack: fab
   link: https://github.com/hamzahjavaid
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/hamzah-j-07896a9b/
 superuser: true
 title: Hamzah Javaid
 ---
