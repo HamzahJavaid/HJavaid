@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: -----
     url: '#about'
-    weight: -----
+    weight: 20
   - name: Projects
     url: '#about'
     weight: 30
